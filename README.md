@@ -62,7 +62,7 @@ Please adhere to this project's `code of conduct`.
 
 See  list of contributors who participated in this project.
 
-https://github.com/Shubh-Pawar007/Naukri-Clone/graphs/contributors
+https://github.com/deshmukh612/Naukri-Clone/graphs/contributors
 ## Demo
 
 https://practical-wilson-0e6184.netlify.app
@@ -70,17 +70,11 @@ https://practical-wilson-0e6184.netlify.app
 
 ## Authors
 
-- [Shubham Pawar](https://github.com/Shubh-Pawar007)
-
 - [Priya Deshmukh](https://github.com/deshmukh612)
-- [Aun Mohammad](https://github.com/aun0545088)
-- [Ramanjeet Singh](https://github.com/gzbsingh)
-- [Musharrat Jaha Afsar Baig](https://github.com/mush1998)
-- [Bhoop Singh](https://github.com/bhupirao)
 
 ## Documentation
 
-[Documentation](https://medium.com/@aun0545088/construct-week-project-b8cb79bb6cb3)
+[Documentation](https://medium.com/@priyadeshmukh612/making-a-clone-of-naukri-com-786ec0c73e29)
 
 
 
