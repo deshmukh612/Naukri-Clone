@@ -20,7 +20,7 @@ Javascript, HTML, CSS...
 Clone the project
 
 ```bash
-  git clone https://github.com/Shubh-Pawar007/Naukri-Clone.git
+  git clone https://github.com/deshmukh612/Naukri-Clone.git
 ```
 
 Go to the project directory
@@ -44,7 +44,7 @@ Start the server
 
 ## Support
 
-For support, email -gentalman1945@gmail.com 
+For support, email -priyadeshmukh@gmail.com 
 
 
 ## Screenshots
